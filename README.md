@@ -1,7 +1,7 @@
-## How to Rebase
+## How to Rebase Edit
 
-1. Objective 1
-2. Objective 2
+1. I rebased!
+2. GitHub and chill, amirite?
 
 ## Instructions
 
