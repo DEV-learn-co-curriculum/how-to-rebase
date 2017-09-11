@@ -1,6 +1,6 @@
-## How to Rebase
+## How to Rebase Edit
 
-1. Objective 1
+1. I rebased!
 2. Objective 2
 
 ## Instructions
